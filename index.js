@@ -1,8 +1,10 @@
+var1 = 31;
+var2 = 2;
+var multiply = var1 * var2;
 
-var multiply = 31 * 2;
+var random = Math.random()+1;
 
-Math.random()+1;
+var mod = var1 % 9;
 
-Math.max(4,8,10,20);
+var max = Math.max(4,8,10,20);
 
-var1 % 9;
