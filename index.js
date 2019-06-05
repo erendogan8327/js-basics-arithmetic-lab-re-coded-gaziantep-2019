@@ -1,6 +1,6 @@
-var1 = 31;
-var2 = 2;
-var multiply = var1 * var2;
+let var1 = 31;
+let var2 = 2;
+let multiply = var1 * var2;
 
 let random = Math.random()+1;
 
