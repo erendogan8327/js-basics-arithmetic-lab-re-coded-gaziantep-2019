@@ -1,5 +1,5 @@
 
-var multiply = 31 * var2;
+var multiply = 31 * 2;
 
 Math.random()+1;
 
