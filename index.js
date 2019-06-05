@@ -1,6 +1,5 @@
-var1 = 31;
-var2 = 2;
-var multiply = var1 * var2;
+
+var multiply = 31 * var2;
 
 Math.random()+1;
 
